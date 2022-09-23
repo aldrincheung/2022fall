@@ -1,0 +1,15 @@
+{
+  "snippets": "[\n    // Math mode\n]",
+  "snippetsEnabled": true,
+  "concealEnabled": false,
+  "colorPairedBracketsEnabled": true,
+  "highlightCursorBracketsEnabled": true,
+  "autofractionEnabled": true,
+  "autofractionExcludedEnvs": "[\n        [\"^{\", \"}\"],\n        [\"\\\\pu{\", \"}\"]\n]",
+  "matrixShortcutsEnabled": false,
+  "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
+  "taboutEnabled": true,
+  "autoEnlargeBrackets": true,
+  "autoEnlargeBracketsTriggers": "sum, int, frac, prod",
+  "wordDelimiters": "., -\\n:;!?\\/{}[]()=~"
+}

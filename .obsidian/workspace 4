@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "dab3f47d1c19a687",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c21e341020a1067",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-09-07.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "553d67cf9cd69f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "e20f12decd0a939e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb8713d502cb312",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc188a3a4da76cef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5a01e7d79ba0e68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1ab4e003664b498",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a267c90ccee6d7be",
+    "type": "split",
+    "children": [
+      {
+        "id": "3203a147465b9e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a5147659d03878",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9718fb71f5b67183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2022-09-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d43bde7128942a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2022-09-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a11fc5340d4abc5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c09d2dd0387e9af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2022-09-07.md"
+              }
+            }
+          },
+          {
+            "id": "b8c16b5117ef7998",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dc188a3a4da76cef",
+  "lastOpenFiles": []
+}

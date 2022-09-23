@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": ",src",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "vimMode": true,
+  "newFileLocation": "current",
+  "lineWrap": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 44
+  }
+}
